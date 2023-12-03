@@ -5,7 +5,7 @@
 
 - 🔍 Eager to contribute. Let's connect and build something amazing!
 
-- 🌐 My interests span network communications, AI, and security. I excel in drawing ER diagrams and applying logical principles to real-world scenarios. **network communications, AI, and security. I excel in drawing ER diagrams and applying logical principles to real-world scenarios.**
+- 🌐 My interests span **network communications, AI, and security. I excel in drawing ER diagrams and applying logical principles to real-world scenarios.**
 
 - 📫 You can reach my via Github or email **austenedge08@gmail.com**
 
