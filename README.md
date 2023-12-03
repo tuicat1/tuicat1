@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Visulisation, Largescale Software Development, Human Computer Interation and Solutions Architecture**
 
-- 🔍 Eager to contribute [Let's connect and build something amazing!](Let's connect and build something amazing!)
+- 🔍 Eager to contribute. Let's connect and build something amazing!
 
 - 🌐 My interests span network communications, AI, and security. I excel in drawing ER diagrams and applying logical principles to real-world scenarios. **network communications, AI, and security. I excel in drawing ER diagrams and applying logical principles to real-world scenarios.**
 
