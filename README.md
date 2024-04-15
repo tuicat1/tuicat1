@@ -7,7 +7,7 @@
 
 - 🌐 My interests span **network communications, AI, and security. I excel in drawing ER diagrams and applying logical principles to real-world scenarios.**
 
-- 📫 You can reach my via Github or email **austenedge08@gmail.com**
+- 📫 You can reach me via Github or email **austenedge08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
